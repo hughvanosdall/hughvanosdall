@@ -2,7 +2,7 @@ Welcome to my GitHub Profile!
 
 Heres what i'm doing right now!
 
-- 🔭 I’m currently working on Vue Poket Monsters Clone
+- 🔭 I’m currently working on Vue.js Poket Monsters Clone
 
 - 🌱 I’m currently learning Javascript Fronend Web Development 
 
