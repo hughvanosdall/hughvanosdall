@@ -1,16 +1,15 @@
-### Hi there 👋
+Welcome to my GitHub Profile!
 
-<!--
-**hughvanosdall/hughvanosdall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Heres what i'm doing right now!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Vue Poket Monsters Clone
+- 
+- 🌱 I’m currently learning Javascript Fronend Web Development 
+- 
+- 👯 I’m looking to collaborate on Frontend Projects
+- 
+- 🤔 I’m looking for help with Frontend Design
+-
+- 📫 How to reach me: hughvanosdall@gmail.com
+- 
+- ⚡ Fun fact: Started my web development journey in October, 2021
