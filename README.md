@@ -1,6 +1,6 @@
 Welcome to my GitHub Profile!
 
-Heres what i'm doing right now!
+Here is what i'm doing right now!
 
 - 🔭 I’m currently working on learning Vue.js and C++
 
