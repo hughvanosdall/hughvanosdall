@@ -2,14 +2,12 @@ Welcome to my GitHub Profile!
 
 Here is what i'm doing right now!
 
-- 🔭 I’m currently working on learning Vue.js and C++
+- 🔭 Vue.JS Developer/ Front End Web Developement 
 
-- 🌱 I’m currently learning Javascript Frotnend Web Development 
+- 🌱 I’m currently learning C++
 
 - 👯 I’m looking to collaborate on Frontend Projects
 
 - 🤔 I’m looking for help with Frontend Design
 
 - 📫 How to reach me: hughvanosdall@gmail.com
-
-- ⚡ Fun fact: Started my web development journey in October, 2021
